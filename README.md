@@ -1,0 +1,4 @@
+- 👋 Hi, I'm NyXoy
+- 👀 I’m interested in C#, coding and doing some GrowTopia projects :D
+- 🌱 I’m currently learning C#
+- 📫 You can reach me at Discord: NyXoy#9697
